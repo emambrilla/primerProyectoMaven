@@ -25,7 +25,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
   <build>
       <plugins>
         <!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
