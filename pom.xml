@@ -6,6 +6,8 @@
   <artifactId>primerProyectoMaven</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>primerProyectoMaven</name>
+
+  otro ejemplo
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
   <properties>
